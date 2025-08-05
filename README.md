@@ -3,7 +3,7 @@ Piattaforma informatica che consente la gestione dei pagamenti autostradali da p
 
 # Progettazione di un Database per un Sistema di Telepedaggio
 
-[cite_start]Questa repository contiene l'elaborato di un progetto per la progettazione e l'implementazione di un database per una piattaforma di telepedaggio denominata "PartenoPass"[cite: 144]. [cite_start]L'obiettivo principale è supportare funzionalità come la registrazione dei tragitti, il pagamento dei pedaggi e l'analisi statistica, come l'individuazione dei tragitti più trafficati[cite: 3].
+Questa repository contiene l'elaborato di un progetto per la progettazione e l'implementazione di un database per una piattaforma di telepedaggio denominata "PartenoPass". L'obiettivo principale è supportare funzionalità come la registrazione dei tragitti, il pagamento dei pedaggi e l'analisi statistica, come l'individuazione dei tragitti più trafficati.
 
 ## Contenuto del progetto
 
